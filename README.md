@@ -22,7 +22,8 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="moleculinhas.png" alt="Logo" width="350" height="350">
+    <img src="https://github.com/benetao/Lab_Avancado_III/assets/106626661/7ff947d6-fdf3-4ad4-a4dc-55ddf7cef6c9"
+ alt="Logo" width="120" height="150">
   </a>
 
   <h3 align="center">Repositório de Laboratório Avançado III</h3>
