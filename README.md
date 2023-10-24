@@ -13,10 +13,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
-<img align="right" alt="ilum" height="40" width="150" src="https://github.com/pedrozanineli/pcd.github.io/blob/main/logo1.png">
  
-  
-
+ 
 <!-- LOGO -->
 <br />
 
